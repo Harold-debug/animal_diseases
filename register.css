@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+.register-nav a{
+    
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;    
+    margin-left: 15%;
+    font-size: 40px;
+    display: inline;
+    text-decoration: none;
+}
+.register1{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+
+}
+.register2{
+    position: absolute;
+    top: 50%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+}
+.register-nav a:hover{
+    color: powderblue;
+}
+.register{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
